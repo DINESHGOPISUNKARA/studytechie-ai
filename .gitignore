@@ -1,0 +1,18 @@
+﻿# Expo
+.expo/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build
+android/
+ios/
+dist/
+build/
+
+# IDE/editor
+.vscode/
+.idea/
+.DS_Store

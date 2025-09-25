@@ -1,0 +1,7 @@
+studytechie/
+  api/
+    openai.js
+  src/
+    ... (Expo app code)
+  package.json
+  vercel.json   ← add this

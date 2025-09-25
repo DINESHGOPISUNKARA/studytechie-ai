@@ -1,0 +1,19 @@
+studytechie/
+ ├─ studytechie-web/
+ │   └─ (web app source code here)
+ ├─ studytechie-admin/
+ │   └─ (admin dashboard source code here)
+ ├─ studytechie-mobile/
+ │   ├─ package.json
+ │   ├─ app.json
+ │   ├─ eas.json
+ │   └─ (mobile source code here)
+ ├─ .github/workflows/
+ │   ├─ deploy.yml
+ │   └─ mobile.yml
+ ├─ store-metadata/
+ │   ├─ google-play.txt
+ │   └─ app-store.txt
+ ├─ StudyTechie_Legal_Info.pdf
+ ├─ StudyTechie_Deploy_Checklist.pdf
+ └─ README.md
